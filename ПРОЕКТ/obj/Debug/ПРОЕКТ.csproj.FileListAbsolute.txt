@@ -1,0 +1,6 @@
+C:\Users\Алёнка\Source\Repos\command project\ПРОЕКТ\ПРОЕКТ\bin\Debug\ПРОЕКТ.exe.config
+C:\Users\Алёнка\Source\Repos\command project\ПРОЕКТ\ПРОЕКТ\bin\Debug\ПРОЕКТ.exe
+C:\Users\Алёнка\Source\Repos\command project\ПРОЕКТ\ПРОЕКТ\bin\Debug\ПРОЕКТ.pdb
+C:\Users\Алёнка\Source\Repos\command project\ПРОЕКТ\ПРОЕКТ\obj\Debug\ПРОЕКТ.csprojResolveAssemblyReference.cache
+C:\Users\Алёнка\Source\Repos\command project\ПРОЕКТ\ПРОЕКТ\obj\Debug\ПРОЕКТ.exe
+C:\Users\Алёнка\Source\Repos\command project\ПРОЕКТ\ПРОЕКТ\obj\Debug\ПРОЕКТ.pdb
